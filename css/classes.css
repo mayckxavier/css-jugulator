@@ -1,0 +1,35 @@
+.masterReset{
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+	font-weight: inherit;
+	font-style: inherit;
+	font-family: inherit;
+	font-size:100%;
+	text-align: left;
+	vertical-align: baseline;
+}
+
+.left 		{float:left;}
+.right 		{float:right;}
+.clearThis 	{clear:both;}
+.small		{font-size:.625em;}
+.large		{font-size:1em;}
+.soft			{color:#D3D3D3;}
+.hide			{display:none;}
+p.last		{margin-bottom:0px;}
+
+/*---- MARGINS ----*/
+
+.margin5		{margin:5px;}
+.margin10	{margin:10px;}
+.margin15	{margin:15px;}
+.margin20	{margin:20px;}
+
+/*---- PADDINGS ----*/
+
+.padding5	{padding:5px;}
+.padding10	{padding:10px;}
+.padding15	{padding:15px;}
+.padding20	{padding:20px;}
