@@ -1,6 +1,8 @@
 css-jugulator
 =============
 
+Author: Mayck Xavier <mayckxavier@gmail.com>
+
 CSS Jugulator
 
 A CSS framework created between 2007 and 2009 to standardize my Front-end development.
